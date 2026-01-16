@@ -23,3 +23,30 @@
   - to implement a ui element
 - If you have uncertainties or confusion on topics or syntax, write those questions as well
   - ex: do I have to use a closing tag with `<img>`?
+
+---
+
+## Demo Website Topic: Coding Workflow
+
+### Page Header
+- page heading introduces that this is about how to approach coding
+- description that we are using html and web page content as an example
+- add an image
+
+### First Section: introduce plan then code
+- identify why this is important
+- what planning means in this context
+- how to switch from planning to code?
+
+### Second Section: Create a table of html elements with descriptions
+
+- elements per table row
+- columns for: short description, content type, use case
+
+### Third Section: Common HTML Bugs
+
+- use common mistakes listed above
+
+### Fourth Section: Links to helpful resources
+
+- unordered list of links
