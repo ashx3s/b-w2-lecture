@@ -40,6 +40,8 @@
 
 ### Second Section: Create a table of html elements with descriptions
 
+- [ ] TODO: review table syntax
+
 - elements per table row
 - columns for: short description, content type, use case
 
