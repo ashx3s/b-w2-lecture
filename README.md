@@ -16,3 +16,10 @@
 - em and strong tags
 - ol and ul tags + li
 
+## Recommendations
+- start with a readme and plan out your goals
+  - ie: to create a page that has x y and z on it
+  - to experiment with a particular html syntax
+  - to implement a ui element
+- If you have uncertainties or confusion on topics or syntax, write those questions as well
+  - ex: do I have to use a closing tag with `<img>`?
